@@ -1,0 +1,17 @@
+.container{
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+}
+.p-15 {
+  padding: 15px;
+}
+.bordered {
+  border-radius: 10px;
+}
+.bg-white {
+  background: white;
+}
+.h-100{
+  height: 100%;
+}
